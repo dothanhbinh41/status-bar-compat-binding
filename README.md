@@ -1,4 +1,4 @@
-# status-bar-compat-binding
+# StatusBarCompat Android Binding
 Xamarin Binding Library - StatusBarCompat
 
 A Xamarin.Android binding library for [StatusBarCompat](https://github.com/niorgai/StatusBarCompat) library.
